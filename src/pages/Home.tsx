@@ -96,13 +96,15 @@ const Home = () => {
             >
               <TypeAnimation
                 sequence={[
-                  'Web Developer',
+                  'Full Stack Web Developer(React & TypeScript Enthusiast)',
                   2000,
-                  'Frontend Engineer',
+                  'PHP & MySQL Developer',
                   2000,
-                  'Tech Enthusiast',
+                  'Angular Developer',
                   2000,
-                  'Problem Solver',
+                  'UI/UX Designer',
+                  2000,
+                  'Content Creator',
                   2000,
                 ]}
                 wrapper="span"
