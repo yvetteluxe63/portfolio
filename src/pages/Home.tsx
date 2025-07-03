@@ -96,7 +96,7 @@ const Home = () => {
             >
               <TypeAnimation
                 sequence={[
-                  'Full Stack Web Developer)',
+                  'Full Stack Web Developer',
                   2000,
                   'PHP & MySQL Developer',
                   2000,
